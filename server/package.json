@@ -1,0 +1,11 @@
+{
+    "name": "Ampd",
+    "description": "Web-based private music host.",
+    "version": "0.1",
+    "dependencies": {
+        "bcrypt": "^3.0.2",
+        "express": "^4.16.4",
+        "jsonwebtoken": "^8.3.0",
+        "mysql": "^2.16.0"
+    }
+}
