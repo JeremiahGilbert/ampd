@@ -4,7 +4,7 @@ const express = require('express');
 const ampd = express();
 
 const hostname = '127.0.0.1';
-const port = 3000;
+const port = 3001;
 
 ampd.use(express.static('public'));
 
